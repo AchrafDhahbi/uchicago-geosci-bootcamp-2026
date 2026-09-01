@@ -4,13 +4,13 @@ This repo houses data and notebooks for the 2026 "Introduction to Scientific Com
 ## Instructions:
 0) Follow the setup instructions on [this page](https://carpentries.github.io/workshop-template/#setup) titled "The Bash Shell", "Git" and "Python". 
 Basically, everything under "Setup" not including "R" or "text editor." 
-      - For python, install Anaconda.
+      - For Python, install Anaconda.
       - The videos may be helpful. 
       - These additional tutorials may also be helpful to skim:
             _Unix shell/command line:_ http://swcarpentry.github.io/shell-novice/
             _Version control with git:_ http://swcarpentry.github.io/git-novice/
-1) If you don't already have a preffered text editor, install the free version of BBEdit [here](https://www.barebones.com/products/bbedit/). If you already use a text editor you are familiar with, you can skip this step.
-2) Open Terminal or other application for the bash or zsh command line (for Windows its the git bash introduced in the instructions above, for Mac and Linux its the Terminal)
+1) If you don't already have a preferred text editor, install the free version of BBEdit [here](https://www.barebones.com/products/bbedit/). If you already use a text editor you are familiar with, you can skip this step.
+2) Open Terminal or other application for the bash or zsh command line (for Windows, it's the git bash introduced in the instructions above; for Mac and Linux, it's the Terminal)
 3) `cd` into a directory that you want all of your bootcamp materials to live.
 4) Type `git clone https://github.com/AchrafDhahbi/uchicago-geosci-bootcamp-2026.git`
 5) Type `cd uchicago-geosci-bootcamp-2026`
@@ -50,20 +50,16 @@ Slack is only available for students taking the live version of the course. Plea
 - Location Hinds 561
 
 ### Structure:
-- Instructors will go over pre-written code and discuss the mechanics of what is going on
-- We will stop intermittently for skill practice and breaks 
-- Any code not covered should be completed outside of class with help from TAs
-- Short skill practice problems as homework 
+- Instructors will go over pre-written code and discuss the mechanics of what is going on.
+- We will stop intermittently for skill practice and breaks!
+- Any code not covered in the morning sessions should be completed outside of class with help from TAs (or classmates!).
+- Short skill practice problems as homework. 
 
 ### How to ask for help:
-- Ask questions on slack or in person - there is a high likelyhood someone will have the same question as you that's why we want questions on slack 
+- Ask questions on slack or in person - there is a high likelyhood someone will have the same question as you! That's why we prefer questions on Slack or in-person, since everyone will have access to the answer!
 - Plan to stay the entire class period as we will offer office hours towards the end of class.
-- If you need help outside of class time or office hours, sign up here< https://docs.google.com/spreadsheets/d/1prFbyLPoSYM1VdUHJ6z09l10dmaatYqo1QTr6hOwqek/edit?gid=0#gid=0 >
-- During class, post to your slack channel and your TA will respond in real time
-
-### Recordings:
-The folder for the recordings will be posted over Slack or sent over email. 
-We will add each day's recordings a few hours after classtime.
+- If you need help outside of class time or office hours, please post a message or DM a TA in Slack.
+- During class, post to your slack channel and a TA will respond in real time.
 
 
 ## Week 1: Foundation  
