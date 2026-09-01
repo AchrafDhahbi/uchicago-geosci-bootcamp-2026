@@ -1,5 +1,5 @@
-# Introduction to Scientific Computing 2025 Bootcamp Materials
-This repo houses data and notebooks for the 2025 "Introduction to Scientific Computing" bootcamp.
+# Introduction to Scientific Computing 2026 Bootcamp Materials
+This repo houses data and notebooks for the 2026 "Introduction to Scientific Computing" bootcamp.
 
 ## Instructions:
 0) Follow the setup instructions on [this page](https://carpentries.github.io/workshop-template/#setup) titled "The Bash Shell", "Git" and "Python". 
@@ -12,13 +12,13 @@ Basically, everything under "Setup" not including "R" or "text editor."
 1) If you don't already have a preffered text editor, install the free version of BBEdit [here](https://www.barebones.com/products/bbedit/). If you already use a text editor you are familiar with, you can skip this step.
 2) Open Terminal or other application for the bash or zsh command line (for Windows its the git bash introduced in the instructions above, for Mac and Linux its the Terminal)
 3) `cd` into a directory that you want all of your bootcamp materials to live.
-4) Type `git clone https://github.com/MDHDZ91/intro-scientific-computing-2025.git`
+4) Type `git clone https://github.com/AchrafDhahbi/uchicago-geosci-bootcamp-2026.git`
 5) Type `cd intro-scientific-computing-2025`
 6) You're all set up! To start using notebooks, type `cd notebooks` 
 7) Then type `jupyter notebook` 
 8) This should open a new tab in your default browser and print a bunch of stuff in your terminal.
 9) In the new tab that was just opened in your browser, click the notebook for the day of the course that you are on. For the first day, open "Day0_Setup.ipynb" and follow the instructions in that notebook to make sure you followed all the steps correctly.
-10) Each day, start class by going into your bootcamp repo directory (`cd intro-scientific-computing-2025`) and typing `git pull`. Then follow steps 6-9.
+10) Each day, start class by going into your bootcamp repo directory (`cd uchicago-geosci-bootcamp-2026`) and typing `git pull`. Then follow steps 6-9.
 
 ## Directory Structure:
 `data` holds data
@@ -33,22 +33,21 @@ Don't change the structure!
 # Syllabus
 
 ### Instructors:
-All the instructors are also on Slack, we prefer that you send us a slack message if you have any questions over sending an email. 
+All the instructors are also on Slack, we prefer that you send us a Slack message if you have any questions over sending an email. (Slack is just faster!) 
 Slack is only available for students taking the live version of the course. Please check your email for information on how to join slack.
 
-- Maria D Hernandez Limon (she/her), Post-Doctoral Scholar, Department of Statistics
+- most of these materials were originally created by Maria D Hernandez Limon (she/her), Post-Doctoral Scholar, Department of Statistics
 
 ### Teaching Assistants:
-- Eric Van Clepper [Geophysical Sciences]
-- Tommaso Castellani [Statistics]
+- Ashraf Dhahbi [Geophysical Sciences]
+- Mckenzie Ferrari [Geophysical Sciences]
 - Hsing-Hung Chou [Geophysical Sciences]
 
 
 ### Class Time:
-- Sept 8-19
+- Sept 8-18
 - 09:30am-12:30pm CT
 - Location Hinds 561
-- Zoom link available via permission
 
 ### Structure:
 - Instructors will go over pre-written code and discuss the mechanics of what is going on
