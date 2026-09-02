@@ -91,7 +91,7 @@ Slack is only available for students taking the live version of the course. Plea
 
 ---
 
-### 2. Automation with Loops & Conditionals **(9/9)**  
+### 2. Automation with Loops & Conditionals **(9/8)**  
 - `for` and `while` loops  
 - Iterating over lists, ranges, and strings  
 - Conditional logic with `if / elif / else`  
@@ -100,7 +100,7 @@ Slack is only available for students taking the live version of the course. Plea
 
 ---
 
-### 3. NumPy Basics **(9/10)**  
+### 3. NumPy Basics **(9/9)**  
 - Creating and inspecting arrays (`.shape`, `.dtype`)  
 - Array-wise math and broadcasting  
 - Descriptive statistics: `.mean()`, `.std()`, `.min()`, `.max()`  
@@ -111,7 +111,7 @@ Slack is only available for students taking the live version of the course. Plea
 
 ---
 
-### 4. Functions **(9/11)**  
+### 4. Functions **(9/10)**  
 - Defining your own functions with `def`  
 - Parameters and return values  
 - Multiple arguments, default arguments  
@@ -122,7 +122,7 @@ Slack is only available for students taking the live version of the course. Plea
 
 ---
 
-### 5. Introduction to Plotting (Matplotlib) **(9/12)**  
+### 5. Introduction to Plotting (Matplotlib) **(9/11)**  
 - Basic line plots with `plt.plot(x, y)`  
 - Titles, axis labels, legends, grids  
 - Multiple lines on one plot  
@@ -136,7 +136,7 @@ Slack is only available for students taking the live version of the course. Plea
 
 ## Week 2: Data analysis and visuals 
 
-### 6. Introduction to pandas **(9/15)** 
+### 6. Introduction to pandas **(9/14)** 
 - Create a dataframe from scratch
 - Read in tabular data into a dataframe
 - View and access data in the dataframe
@@ -144,7 +144,7 @@ Slack is only available for students taking the live version of the course. Plea
 
 ---
 
-### 7. Introduction to pandas **(9/16)** 
+### 7. Introduction to pandas **(9/15)** 
 - Modify dataframe
 - Modify values
 - Clean data and make a function to import data
@@ -153,13 +153,13 @@ Slack is only available for students taking the live version of the course. Plea
 
 ---
 
-### 8. Pandas applications **(9/17)** 
+### 8. Pandas applications **(9/16)** 
 - Intro to Math/Stats  
 - Intro to pivot, groupby
  
 ---
  
-### 9. Advanced Plotting **(9/18)** 
+### 9. Advanced Plotting **(9/17)** 
 - Seaborn
 - SciPy
 - Maps
@@ -172,7 +172,7 @@ Slack is only available for students taking the live version of the course. Plea
 - The command line
 - `.py` scripts
 - Interactive python
-- Working with super computers
+- Working with super clusters
 
 ---
 Credit:
