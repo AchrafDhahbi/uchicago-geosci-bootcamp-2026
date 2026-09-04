@@ -13,7 +13,7 @@ Basically, everything under "Setup" not including "R" or "text editor."
 2) Open Terminal or other application for the bash or zsh command line (for Windows, it's the git bash introduced in the instructions above; for Mac and Linux, it's the Terminal)
 3) `cd` into a directory that you want all of your bootcamp materials to live.
 4) Type `git clone https://github.com/AchrafDhahbi/uchicago-geosci-bootcamp-2026.git`
-5) Type `cd uchicago-geosci-bootcamp-2026`
+5) Type `cd uchicago-geosci-bootcamp-2026`. We suggest you to follow the instructions in the `ENV_SETUP.md` to set up the environment for the packages we need.
 6) You're all set up! To start using notebooks, type `cd notebooks` 
 7) Then type `jupyter notebook` 
 8) This should open a new tab in your default browser and print a bunch of stuff in your terminal.
