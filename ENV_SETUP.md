@@ -12,17 +12,17 @@ Open your terminal.
 
 ### 1) Create the class environment
 ```bash
-mamba create -n py101 python=3.12 -c conda-forge -y
+conda create -n py101 python=3.12 -c conda-forge -y
 ```
 
 ### 2) Activate it
 ```bash
-mamba activate py101
+conda activate py101
 ```
 
 ### 3) Install course packages
 ```bash
-mamba install -c conda-forge numpy pandas matplotlib seaborn jupyterlab notebook ipykernel cartopy geopandas -y
+conda install -c conda-forge numpy pandas matplotlib seaborn jupyterlab notebook ipykernel cartopy geopandas -y
 ```
 
 ### 4) Register the kernel for Jupyter
